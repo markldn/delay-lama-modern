@@ -1,0 +1,1 @@
+The embedded PNGs were converted from the recovered classic-Mac PICT resources with the MIT-licensed `oxideav-pict` reader (temporary conversion utility under `/tmp`, not a runtime dependency). The PICT originals are retained in `Original-PICT/`.

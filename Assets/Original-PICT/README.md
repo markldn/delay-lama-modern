@@ -1,0 +1,1 @@
+Original extracted PICT/PICT-extension image streams from the legacy interface are preserved here. The readable larger images were converted to PNG and are embedded from the parent `Assets` folder. The smaller `pitchhandle`, `delayhandle1`, and `vowelhandle` streams are retained as-is because current decoders reject their PackBits row lengths; no original files were altered.

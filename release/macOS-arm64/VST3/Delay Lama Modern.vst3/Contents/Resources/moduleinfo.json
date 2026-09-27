@@ -1,0 +1,48 @@
+{
+  "Name": "Delay Lama Modern",
+  "Version": "1.0.0",
+  "Factory Info": {
+    "Vendor": "Personal Recreation",
+    "URL": "",
+    "E-Mail": "",
+    "Flags": {
+      "Unicode": true,
+      "Classes Discardable": false,
+      "Component Non Discardable": false,
+    },
+  },
+  "Classes": [
+    {
+      "CID": "ABCDEF019182FAEB444C4D4F444C4D31",
+      "Category": "Audio Module Class",
+      "Name": "Delay Lama Modern",
+      "Vendor": "Personal Recreation",
+      "Version": "1.0.0",
+      "SDKVersion": "VST 3.7.12",
+      "Sub Categories": [
+        "Instrument",
+        "Synth",
+      ],
+      "Class Flags": 2,
+      "Cardinality": 2147483647,
+      "Snapshots": [
+      ],
+    },
+    {
+      "CID": "ABCDEF011234ABCD444C4D4F444C4D31",
+      "Category": "Component Controller Class",
+      "Name": "Delay Lama Modern",
+      "Vendor": "Personal Recreation",
+      "Version": "1.0.0",
+      "SDKVersion": "VST 3.7.12",
+      "Sub Categories": [
+        "Instrument",
+        "Synth",
+      ],
+      "Class Flags": 2,
+      "Cardinality": 2147483647,
+      "Snapshots": [
+      ],
+    },
+  ],
+}
